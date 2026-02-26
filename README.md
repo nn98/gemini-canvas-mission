@@ -12,7 +12,7 @@
 
 ## 🎮 2. 게임
 
-> ### [추억의 곰닷지]((https://g.co/gemini/share/42ace5b152ef))
+> ### [추억의 곰닷지](https://g.co/gemini/share/42ace5b152ef)
 
 ### 주요 기능
 - **게임 시작 시 화면 정중앙에 플레이어 캐릭터 존재**
