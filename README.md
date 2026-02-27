@@ -22,7 +22,7 @@
 
 ## 📚 3. 학습 앱
 
-> ### [우테코 테코톡 퀴즈 생성기](https://gemini.google.com/share/0aafe23c477e)
+> ### [우테코 테코톡 퀴즈 생성기](https://gemini.google.com/share/7d574b9bf90e)
 
 ### 주요 기능
 - **우아한테크코스 10분 테코톡 기반 퀴즈**
